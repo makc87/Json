@@ -1,1 +1,15 @@
 
+{
+    "№_1": "Resizing the browser window to the minimum allowed",
+    "Steps": 
+              {
+               "1": "Open site",
+               "2": "open tab",
+               "3": "click on the inscription and go to the main menu"
+              } 
+
+    "ER": "When the window is reduced, the icons change according to the layout"
+    "AR": "When the window is reduced, the icons are superimposed on each other"
+    "Link"
+    "TG_nik"
+}
