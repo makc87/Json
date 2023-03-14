@@ -1,11 +1,13 @@
 
 {
-    "№_1": "Resizing the browser window to the minimum allowed",
+    №_ID,
+    "Title" :"Resizing the browser window to the minimum allowed",
     "Steps": 
               {
                "1": "Open site",
                "2": "open tab",
                "3": "click on the inscription and go to the main menu"
+               "4": "reduce the browser window to the minimum size"   
               } 
 
     "ER": "When the window is reduced, the icons change according to the layout"
